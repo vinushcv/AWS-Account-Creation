@@ -18,10 +18,12 @@ Include the commands used in the Experiment.
 ## OUTPUT
 ### REG NUMBER:212222230176
 ### NAME:Vinush CV
-<img width="1508" alt="Screenshot 2025-05-22 at 11 29 51 AM" src="https://github.com/user-attachments/assets/a405f153-9bb3-4aba-8eea-0c5d6b53d6e3" />
+
 
 
 ![image](https://github.com/user-attachments/assets/d4b2cacd-2296-4678-ade5-e17a1709bc36)
+
+![Uploading image.png…]()
 
 
 ## RESULT
