@@ -23,7 +23,8 @@ Include the commands used in the Experiment.
 
 ![image](https://github.com/user-attachments/assets/d4b2cacd-2296-4678-ade5-e17a1709bc36)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/aa862348-34de-4069-a8da-a54255c118d7)
+
 
 
 ## RESULT
